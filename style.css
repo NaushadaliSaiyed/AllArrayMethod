@@ -1,0 +1,50 @@
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: brown;
+}
+
+
+
+h4 {
+    color: orange;
+}
+
+h5{
+    color: green;
+}
+
+.main {
+    background-color: aqua;
+}
+
+.main-1 {
+    background-color: blanchedalmond;
+}
+
+.main-2 {
+    background-color: aqua;
+}
+
+.concat {
+    background-color: blanchedalmond;
+}
+
+.copyWithin {
+    background-color: aqua;
+}
+
+p {
+    color: blue;
+}
+
+.entries{
+    background-color: blanchedalmond;
+}
